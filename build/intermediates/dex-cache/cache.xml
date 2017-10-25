@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/e72ca0998ee0347379cef79a58d00308da6fdf6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2223da34fe4119a223a0bd429eb069ba5cb9f358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/df04211ad3871dd01b765258cf3d61ab460c2f4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_104d9a5a510e04f4c0db9dbcf075a4f0f83657fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/a82dcb1407116c4a50faac702e25a47675cad60d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d09e70747150b88698e16ee72503f605da77e27b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/f9eb9032b8f4ac12671627b5bb2297f95ad043de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d73fbb78e96326f11813d4594c9ed964f0215904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/Projects/Android/TravelON/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3cdb8d017389cb5b3eafee6ef52dde269f8884a6">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1acae6d49b8ec70494f6f38a964c7ad292032550/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/5b0f449278338c964ee98028e54021fbc8eda0a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_425ad42c77d98c7a8c638bc55716fc3d7ee09641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_16cdba8f5d681647116f812a54e8dde1bf5038fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/Projects/Android/TravelON/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_449ea88adf61cc589c6fc362dfeb11238a2135b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/3391ff2c6b414975ed137559004e01ea90245c3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ad80da03f5aa01dd5d9c5ed924790eeaf234402/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/988cfeac85ae32c2dae55caabd15014914589282/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_054421b545839a871959a44b9d0de96b6726f4f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/22080a6d5fc942e92f0e3393da5bcf4ca7ebcb15/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd39e895cae7b08094d250e9b7075d37a987a8f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/2f3523815671e9bea36c35600990f45c6ca9c53f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67a94264bcbcefe4c1b14cddd800fd03c198d245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/c04a9fdf0915af0ce507a0ca251c471e41613dea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39399cc3203a06f7b694afb714592904911632cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/bf58646c5e097061c58a4b9b6ab61552913c4598/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93a9feba947137563039b5e80210287e5ebe1791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_c5f81208d057c49547f685c9479428488f1447ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/72fa774bf989c582254bd5327d6d48056d1faf4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fba2fd10ee312ef29e4da0256c862d3ddf726a6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rafael/.android/build-cache/6914f27b23381865c0c38b347532351ad7d47407/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/rafael/Projects/Android/TravelON/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71dabfab332ca0dea1cbfe58f88875b4826fe536/classes.dex" />
+    </item>
+
+</items>
